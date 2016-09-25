@@ -32,7 +32,7 @@ Conexões:
 
 A figura abaixo indica as conexões entre o Raspberry Pi e o módulo do relê.
 
-(inserir figura)
+![Diagrama esquemático das conexões][esquematico.png]
 
 
 
