@@ -23,6 +23,9 @@ Escolhi usar [node.js] [1] para rodar a aplicação web que dará acesso ao cont
 do relê. E para ficar no mundo Javascript usei a biblioteca [onoff] [2] para
 controlar a interface GPIO do Raspberry Pi.
 
+Neste outro vídeo mostro o funcionamento do projeto:
+
+https://www.youtube.com/watch?v=E9Cb50f-zLg
 
 Conexões:
 ---
