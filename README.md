@@ -43,4 +43,4 @@ Referências:
 
 [1]: http://weworkweplay.com/play/raspberry-pi-nodejs/ (Versão do node.js pré-compilada para Raspberry Pi)
 [2]: https://www.npmjs.com/package/onoff 
-[3]: Pinagem do RaspberryPi http://www.hobbytronics.co.uk/raspberry-pi-gpio-pinout
+[3]: Pinagem do RaspberryPi http://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/
